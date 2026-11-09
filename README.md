@@ -1,6 +1,6 @@
 # MQC3
 
-**SDK for Measurement-based Quantum Computation with Continuous-variable Cluster states.**
+**SDK for Measurement-based Quantum Computation (MBQC) with Continuous-variable Cluster states.**
 
 MQC3 is a software development kit for optical quantum computers.  
 It helps you design CV measurement‑based programs, connect to the MQC3 cloud, and run those programs on real hardware or simulators.
